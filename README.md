@@ -1,10 +1,8 @@
 # Pizzeria-Database
 
+This project is a relational database designed for a pizzeria to manage daily operations, including customer orders, inventory usage, and labor costs. The database models real-world relationships between menu items, recipes, ingredients, employees, and shifts. I used custom SQL queries to track order volume, calculate ingredient consumption and costs, monitor inventory levels, and determine employee labor costs per shift. The project demonstrates practical database design, data aggregation, and cost analysis using SQL.
 
-
-## Features
-
-## Tech Stack
+## Tech Stack/Technologies
 - MySQL
 - MySQL Workbench
 
