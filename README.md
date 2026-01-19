@@ -5,6 +5,7 @@ This project is a relational database designed for a pizzeria to manage daily op
 ## Tech Stack/Technologies
 - MySQL
 - MySQL Workbench
+- Google Sheets
 
 ## Queries
 - Order Activity
