@@ -1,0 +1,17 @@
+staff_id,first_name,last_name,position,hourly_rate
+st0001,Mindy,Sloan,Chef,17.25
+st0002,Luqman,Cantu,Head Chef,21.5
+st0003,Seren,Lindsey,Chef,17.25
+st0004,Arran,Hodgson,Head Chef,21.5
+st0005,Talha,Portillo,Chef,17.25
+st0006,Sana,Black,Head Chef,21.5
+st0007,Zachery,Robins,Chef,17.25
+st0008,Faraz,Peck,Head Chef,21.5
+st0009,Lily-Rose,Vaughn,Delivery Driver,14.5
+st0010,Desiree,Fardner,Delivery Driver,14.5
+st0011,Ivan,English,Delivery Driver,14.5
+st0012,Johnathon,Bradford,Delivery Driver,14.5
+st0013,Matilda,McCarthy,Delivery Driver,14.5
+st0014,Areeb,Vasquez,Delivery Driver,14.5
+st0015,Amiyah,Lambert,Delivery Driver,14.5
+st0016,Amrit,Greves,Delivery Driver,14.5

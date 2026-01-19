@@ -1,0 +1,45 @@
+ing_id,ing_name,ign_weight,ing_meas,ing_price
+ING001,Pizza Dough (8 Balls),2000,grams,4.22
+ING002,Tomato Sauce,4500,grams,3.89
+ING003,Mozzarella Cheese,2500,grams,14.45
+ING004,Dried Oregano,500,grams,5.99
+ING005,Spicy Salami,3500,grams,37.64
+ING006,Chili Pepper,1000,grams,6.49
+ING007,Eggplant,1000,grams,1.9
+ING008,Parmesan Cheese,2500,grams,18.75
+ING009,Gorgonzola Cheese,3500,grams,27.64
+ING010,Ricotta Cheese,1500,grams,3.99
+ING011,Anchovies,1000,grams,10.99
+ING012,Capers,1000,grams,4.16
+ING013,Pepperoni,2500,grams,24.18
+ING014,Shrimps,1000,grams,8.98
+ING015,Tuna,2000,grams,7.66
+ING016,Calamari,2500,grams,28.77
+ING017,Ham,5000,grams,32.45
+ING018,Pineapple,5000,grams,6.23
+ING019,Garlic Bread,40,pieces,30
+ING020,Chicken Wings,60,pieces,100
+ING021,Breadsticks,50,pieces,40
+ING022,Ceasar Salad,50,pieces,50
+ING023,Chocolate Ice Cream,1000,grams,40
+ING024,Vanilla Ice Cream,1000,grams,40
+ING025,Strawberry Ice Cream,1000,grams,60
+ING026,Pistachio Ice Cream,1000,grams,60
+ING027,Chocolate Brownie,50,pieces,40
+ING028,Banoffee Pie,50,pieces,60
+ING029,Coca Cola 33CL,200,liters,190
+ING030,Coca Cola 1.5L,500,bottles,450
+ING031,Diet Coke 33CL,200,liters,190
+ING032,Diet Coke 1.5L,500,bottles,450
+ING033,Reg 7 UP 33CL,200,liters,170
+ING034,Reg 7 UP 1.5L,500,bottles,420
+ING035,Diet 7 UP 33 CL,200,liters,170
+ING036,Diet 7 UP 1.5L,500,bottles,420
+ING037,Reg Fanta 33CL,200,liters,170
+ING038,Reg Fanta 1.5L,500,bottles,420
+ING039,Diet Fanta 33CL,200,liters,170
+ING040,Diet Fanta 1.5L,500,bottles,420
+ING041,San Pelegrino 33CL,200,bottles,150
+ING042,San Pelegrino 1.5L,200,bottles,100
+ING043,Perrier 33CL,200,bottles,150
+ING044,Perrier 1.5L,200,bottles,100
